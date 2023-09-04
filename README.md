@@ -1,5 +1,5 @@
 # Gogensql.
-O propósito deste programa é gerar um script SQL para atualização de tabalas a partir de um arquivo excel. 
+O propósito deste programa é gerar um script SQL para atualização de tabelas a partir de um arquivo excel. 
 
 # Como usar?
 O programa é para ser executado via terminal de comando e passando os devidos argumentos abaixo:
@@ -10,5 +10,5 @@ O programa é para ser executado via terminal de comando e passando os devidos a
 
 O comando do terminal deverá ser algo parecido com isto:
 ```
-gogensql.exe S4 S T 'Nome do arquivo.xlsx'
+gogensql.exe S4 S T 'C:\Arquivo\Excel\Nome do arquivo.xlsx'
 ```
